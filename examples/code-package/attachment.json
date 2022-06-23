@@ -1,9 +1,0 @@
-{
-  "asset_type": "code_package",
-  "name": "app",
-  "description": "Shiny example application",
-  "mime": "application/zip",
-  "object_key": "shiny_asset/app.zip",
-  "object_key_is_read_only": true,
-  "is_partitioned": false
-}
