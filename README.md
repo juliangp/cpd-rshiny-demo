@@ -1,1 +1,2 @@
-# cpd-rshiny-demo
+# Demo of RShiny app in git based projects
+
